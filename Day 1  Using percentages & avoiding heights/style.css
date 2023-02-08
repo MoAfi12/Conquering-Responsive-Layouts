@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+.parent{
+    background-color: cadetblue;
+    width: 80%;
+    margin: 40px auto;
+    color: white;
+   
+}
+.child{
+padding: 3em;
+ 
+}
